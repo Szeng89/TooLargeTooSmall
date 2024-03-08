@@ -43,6 +43,8 @@ public class Main {
             }
         }
 
+        //not sure if method is needed to not count the same input. but testing it seems fine.
+
 
 
     }
